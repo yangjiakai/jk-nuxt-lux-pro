@@ -1,0 +1,30 @@
+{
+  "name": "@lux/nuxt",
+  "version": "1.5.3",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-gtag": "^1.0.4",
+    "animate.css": "^4.1.0",
+    "apexcharts": "^3.19.2",
+    "flag-icon-css": "^3.4.6",
+    "lodash": "^4.17.15",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.10.1",
+    "vue-shortkey": "^3.1.7"
+  },
+  "devDependencies": {
+    "@indielayer/eslint-config-vue": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.11.3",
+    "eslint": "^6.8.0",
+    "sass": "1.32.5",
+    "sass-loader": "^10.1.1"
+  }
+}
