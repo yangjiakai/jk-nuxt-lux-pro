@@ -1,21 +1,25 @@
-<p align="center">Lux - Vue Admin Dashboard Template</p>
+# Lux - Vue Admin Dashboard Template
 
 - Vue js Admin with dark mode + RTL + Demo Apps
 - Vuetify - Number #1 UI Vue Component Library
 - Integrated with Vue CLI + Vuex + Vue-Router
 
-<br/>
+## Describe 
 
 ### Documentation
 
 See - `LuxAdminPro-Documentation.pdf`
 
 ## Commands
-#### `yarn`
+
+### `yarn`
+
 > Installs package dependencies
 
-#### `yarn dev`
+### `yarn dev`
+
 > Compiles and hot-reloads for development
 
-#### `yarn build`
+### `yarn build`
+
 > Compiles and minifies for production
